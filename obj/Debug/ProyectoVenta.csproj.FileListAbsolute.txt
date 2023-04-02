@@ -1,0 +1,20 @@
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\bin\Debug\ProyectoVenta.exe.config
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\bin\Debug\ProyectoVenta.exe
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\bin\Debug\ProyectoVenta.pdb
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csprojAssemblyReference.cache
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.frmVenta.resources
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Properties.Resources.resources
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.GenerateResource.cache
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CoreCompileInputs.cache
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.exe
+D:\Prog1_1w2\ProyectoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.pdb
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\bin\Debug\ProyectoVenta.exe.config
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\bin\Debug\ProyectoVenta.exe
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\bin\Debug\ProyectoVenta.pdb
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.frmVenta.resources
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.Properties.Resources.resources
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.exe
+C:\Proyectos Visual Studio\Proyectos Forms\ProyectoVenta\obj\Debug\ProyectoVenta.pdb
